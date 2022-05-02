@@ -12,7 +12,7 @@
 
 ## My favorite Charater
 
-![대체텍스트](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=keaton69&logNo=20208884104&view=img_1)
+<img src="C:\Users\lee10\to\ironman.jpg" width="50%" height="50%" title="px(픽셀크기설정" alt="ironman"></img>
 
 
 
