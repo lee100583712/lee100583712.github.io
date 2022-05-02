@@ -1,6 +1,6 @@
 ## lee100583712.github.io
 
-### LeeÀÇ markdown
+### LeeÃ€Ã‡ markdown
 
 > 1 OSS
 >> 2 Group2
@@ -12,7 +12,4 @@
 
 ## My favorite Charater
 
-<img src="C:\Users\lee10\to\ironman.jpg" width="50%" height="50%" title="px(ÇÈ¼¿Å©±â¼³Á¤" alt="ironman"></img>
-
-
-
+![ironman](https://user-images.githubusercontent.com/100828618/166216534-abd5f1c3-7f8b-4376-b805-95722e0f1dcb.jpg)
