@@ -13,3 +13,8 @@
 ## My favorite Charater
 
 ![ironman](https://user-images.githubusercontent.com/100828618/166216534-abd5f1c3-7f8b-4376-b805-95722e0f1dcb.jpg)
+
+### Goal on this semester
+__Have a good grade__
+
+_Be honest with myself & Go with the flow_
