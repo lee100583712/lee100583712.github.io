@@ -17,4 +17,4 @@
 ### Goal on this semester: __Have a good grade__
 
 ### Favorite Moto: _Be honest with myself & Go with the flow_
-![go with the flow~](https://user-images.githubusercontent.com/100828618/166217811-1a25afbc-9af4-41e3-a6f6-7ea1e6ad260a.jpg)
+<img src="https://user-images.githubusercontent.com/100828618/166217811-1a25afbc-9af4-41e3-a6f6-7ea1e6ad260a.jpg" width="50%" height="50%">
